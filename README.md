@@ -11,30 +11,28 @@ I'm also an avid researcher with a few publications under my belt, and I aspire 
    - Master’s in Computer Science, Boston University  
    - Bachelor’s in Computer Science & Engineering, KIIT University
 - 🌱 **Recent Work:**
-  - Designed and deployed a custom Large Language Model (LLM) on Azure, optimizing model performance and ensuring scalability to support high-demand applications.
-  - Developed an intelligent qualification assessment system using an LLM agent framework to evaluate candidate expertise against specific criteria, improving resource allocation and decision-making efficiency.
-  - Leveraged OpenAI and BERT models for comprehensive Natural Language Processing (NLP) tasks and data clustering to generate precise and actionable insights.
-  - Applied advanced time series modeling and interactive visualizations to uncover economic insights from key indicators, enabling data-driven decision-making.
-  - Deployed LLaMA3.1, Phi-3, and Mistral LLM agents through the Microsoft AutoGen pipeline, leveraging fairness measures to ensure unbiased training data creation.
+  - **NLP & Generative AI:** Worked extensively with OpenAI, BERT, LLaMA3.1, Phi-3, and Mistral models and Microsoft Autogen agentic LLM framework for diverse NLP tasks to generate actionable insights.
+  - **LLM & RAG Application:** Developed and deployed custom teaching assistant chatbot using LLM frameworks on Azure, leveraging Retrieval-Augmented Generation (RAG) techniques. 
 - 💼 **Experience:** Previously worked as a Software Engineer QA at Amazon and Deloitte, where I automated testing processes and optimized quality assurance pipelines.
 
 ## 💻 Technologies & Tools I use:
 - **Languages:** Python, Java, SQL, NoSQL
 - **Cloud & DevOps:** AWS, Azure, GCP, Docker
-- **Machine Learning & AI:** PyTorch, TensorFlow, Scikit-learn, Transformers, LLaMA, OpenAI, LangChain
+- **Machine Learning & AI:** PyTorch, TensorFlow, Scikit-learn, Transformers, LLaMA, OpenAI, LangChain, Huggingface
 - **Other Tools:** Chroma DB, Microsoft Autogen, Chainlit, JIRA, Git
 
 ## 🔬 Key Projects:
-- **Analysis of Gun Violence in Boston:** Using GeoPandas and ARIMA to identify patterns in police records to assist the city council in strategic interventions.
+- **Analysis of Gun Violence in Boston:** Using GeoPandas and advanced time series forecasting to identify patterns in police records to assist the city council in strategic interventions.
 - **Deepfake Discrimination:** Built an ensemble model to detect AI-generated images, achieving 0.95 accuracy in a competitive setting.
 
 ## 🏆 Publications:
 - [A Comparative Study of Neural Style Transfer Models](https://dl.acm.org/doi/10.1145/3647444.3652461), ICIMMI 2023
 - Reviewer for Elsevier’s ‘Data & Knowledge Engineering’ journal
+- Upcoming research in computer vision (details coming soon)
 
 ## 📫 How to reach me:
 - **Email:** iamhks14@gmail.com
 - **LinkedIn:** [linkedin.com/in/iamhemantsingh](https://www.linkedin.com/in/iamhemantsingh/)
-- **GitHub:** [github.com/hemantsingh11](https://github.com/hemantsingh11)
+- **GitHub:** You are here !!
 
 ## 🌟 Let’s build something amazing together!
