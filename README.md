@@ -5,7 +5,7 @@ With experience across multiple sectors, including academia, finance, and tech, 
 I'm also an avid researcher with a few publications under my belt, and I aspire to make a lasting impact on a global scale as a future leader in AI.
 
 
-## 🧠 A bit about me:
+## 💡 A bit about me:
 - 🔭 **Current Role:** Generative AI Engineer at IDEA BY DESIGN CORP. and Research Analyst (AI) at Boston University.
 - 🎓 **Education:**  
    - Master’s in Computer Science, Boston University  
