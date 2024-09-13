@@ -15,20 +15,49 @@ I'm also an avid researcher with a few publications under my belt, and I aspire 
   - **LLM & RAG Application:** Developed and deployed custom teaching assistant chatbot using LLM frameworks on Azure, leveraging Retrieval-Augmented Generation (RAG) techniques. 
 - 💼 **Experience:** Previously worked as a Software Engineer QA at Amazon and Deloitte, where I automated testing processes and optimized quality assurance pipelines.
 
+
 ## 💻 Technologies & Tools I use:
-- **Languages:** Python, Java, SQL, NoSQL
-- **Cloud & DevOps:** AWS, Azure, GCP, Docker
-- **Machine Learning & AI:** PyTorch, TensorFlow, Scikit-learn, Transformers, LLaMA, OpenAI, LangChain, Huggingface
-- **Other Tools:** Chroma DB, Microsoft Autogen, Chainlit, JIRA, Git
+
+### Languages:
+<a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+<a href="#"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"></a>
+<a href="#"><img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"></a>
+<a href="#"><img src="https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL"></a>
+
+### Cloud & DevOps:
+<a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"></a>
+<a href="#"><img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"></a>
+<a href="#"><img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"></a>
+<a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
+
+### Machine Learning & AI:
+<a href="#"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"></a>
+<a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"></a>
+<a href="#"><img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"></a>
+<a href="#"><img src="https://img.shields.io/badge/Transformers-FFD700?style=for-the-badge&logo=huggingface&logoColor=white" alt="Transformers"></a>
+<a href="#"><img src="https://img.shields.io/badge/LLaMA-20232A?style=for-the-badge&logo=llama&logoColor=white" alt="LLaMA"></a>
+<a href="#"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"></a>
+<a href="#"><img src="https://img.shields.io/badge/LangChain-34A853?style=for-the-badge&logo=chainlit&logoColor=white" alt="LangChain"></a>
+<a href="#"><img src="https://img.shields.io/badge/Huggingface-BFDBFE?style=for-the-badge&logo=huggingface&logoColor=black" alt="Huggingface"></a>
+
+### Other Tools:
+<a href="#"><img src="https://img.shields.io/badge/Chroma_DB-9D50BB?style=for-the-badge&logo=databricks&logoColor=white" alt="Chroma DB"></a>
+<a href="#"><img src="https://img.shields.io/badge/Microsoft_Autogen-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Autogen"></a>
+<a href="#"><img src="https://img.shields.io/badge/Chainlit-34A853?style=for-the-badge&logo=chainlit&logoColor=white" alt="Chainlit"></a>
+<a href="#"><img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="JIRA"></a>
+<a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+
 
 ## 🔬 Key Projects:
 - **Analysis of Gun Violence in Boston:** Using GeoPandas and advanced time series forecasting to identify patterns in police records to assist the city council in strategic interventions.
 - **Deepfake Discrimination:** Built an ensemble model to detect AI-generated images, achieving 0.95 accuracy in a competitive setting.
 
+
 ## 🏆 Publications:
 - [A Comparative Study of Neural Style Transfer Models](https://dl.acm.org/doi/10.1145/3647444.3652461), ICIMMI 2023
 - Reviewer for Elsevier’s ‘Data & Knowledge Engineering’ journal
 - Upcoming research in computer vision (details coming soon)
+
 
 ## 📫 How to reach me:
 - **Email:** iamhks14@gmail.com
