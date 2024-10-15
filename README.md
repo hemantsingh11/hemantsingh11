@@ -6,7 +6,7 @@ I'm also an avid researcher with a few publications under my belt, and I aspire 
 
 
 ## 💡 A bit about me:
-- 🔭 **Current Role:** Generative AI Engineer at IDEA BY DESIGN CORP. and Research Analyst (AI) at Boston University.
+- 🔭 **Current Role:** Generative AI Engineer at IDEA BY DESIGN CORP.
 - 🎓 **Education:**  
    - Master’s in Computer Science, Boston University  
    - Bachelor’s in Computer Science & Engineering, KIIT University
