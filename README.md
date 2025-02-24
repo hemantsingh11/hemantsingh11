@@ -11,9 +11,10 @@ I'm also an avid researcher with a few publications under my belt, and I aspire 
    - Master’s in Computer Science, Boston University  
    - Bachelor’s in Computer Science & Engineering, KIIT University
 - 🌱 **Recent Work:**
-  - **NLP & Generative AI:** Worked extensively with OpenAI, BERT, LLaMA3.1, Phi-3, and Mistral models and Microsoft Autogen agentic LLM framework for diverse NLP tasks to generate actionable insights.
-  - **LLM & RAG Application:** Developed and deployed custom teaching assistant chatbot using LLM frameworks on Azure, leveraging Retrieval-Augmented Generation (RAG) techniques. 
-- 💼 **Experience:** Previously worked as a Software Engineer QA at Amazon and Deloitte, where I automated testing processes and optimized quality assurance pipelines.
+  - **Agentic AI:** Designed, developed and deployed an agentic AI platform via Azure AI Foundry, Cosmos DB, Microsoft Autogen agentic LLM framework with microservices and CI/CD.
+  - **NLP & Generative AI:** Worked extensively with OpenAI, BERT, LLaMA3.1, Phi-3, and Mistral models for diverse NLP tasks to generate actionable insights.
+  - **RAG Application:** Developed and deployed custom teaching assistant chatbot using LLM frameworks on Azure, leveraging Retrieval-Augmented Generation (RAG) techniques. 
+- 💼 **Experience:** Previously worked as a Software Engineer at Amazon and Deloitte, where I automated testing processes and optimized quality assurance pipelines.
 
 
 ## 💻 Technologies & Tools I use:
@@ -50,6 +51,7 @@ I'm also an avid researcher with a few publications under my belt, and I aspire 
 
 
 ## 🔬 Key Projects:
+- **RAG based chatbot on Chainlit and Azure:** A RAG (Retrieval-Augmented Generation) based chatbot using Chainlit, LangChain, OpenAI embeddings, and ChromaDB that can be containerized and deployed to Azure Container Apps with Microsoft Entra ID authentication.
 - **Analysis of Gun Violence in Boston:** Using GeoPandas and advanced time series forecasting to identify patterns in police records to assist the city council in strategic interventions.
 - **Deepfake Discrimination:** Built an ensemble model to detect AI-generated images, achieving 0.95 accuracy in a competitive setting.
 
