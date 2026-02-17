@@ -6,7 +6,6 @@ I'm also an avid researcher with a few publications under my belt, and I aspire 
 
 
 ## 💡 A bit about me:
-- 🔭 **Current Role:** Generative AI Engineer at IDEA BY DESIGN CORP.
 - 🎓 **Education:**  
    - Master’s in Computer Science, Boston University  
    - Bachelor’s in Computer Science & Engineering, KIIT University
@@ -14,7 +13,6 @@ I'm also an avid researcher with a few publications under my belt, and I aspire 
   - **Agentic AI:** Designed, developed and deployed an agentic AI platform via Azure AI Foundry, Cosmos DB, Microsoft Autogen agentic LLM framework with microservices and CI/CD.
   - **NLP & Generative AI:** Worked extensively with OpenAI, BERT, LLaMA3.1, Phi-3, and Mistral models for diverse NLP tasks to generate actionable insights.
   - **RAG Application:** Developed and deployed custom teaching assistant chatbot using LLM frameworks on Azure, leveraging Retrieval-Augmented Generation (RAG) techniques. 
-- 💼 **Experience:** Previously worked as a Software Engineer at Amazon and Deloitte, where I automated testing processes and optimized quality assurance pipelines.
 
 
 ## 💻 Technologies & Tools I use:
